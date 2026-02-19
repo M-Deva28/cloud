@@ -1,0 +1,9 @@
+{
+	"name": "susheela",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "566329fd-b0dd-4f64-90a8-6b62c47daa4d",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
